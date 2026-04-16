@@ -2,7 +2,7 @@
 
 **By: Dario Melconian** — Data Scientist, BMO Wealth Management
 
-A portfolio of AI agent projects built across a 6-week course on agentic AI frameworks. Each project demonstrates a distinct agentic design pattern and is grounded in **wealth management / finance domain** scenarios — connecting practical AI engineering to real-world financial use cases.
+A portfolio of AI agent projects built across 6 weeks of learnings on agentic AI frameworks. Each project demonstrates a distinct agentic design pattern and is grounded in **wealth management / finance domain** scenarios — connecting practical AI engineering to real-world financial use cases.
 
 ---
 
@@ -78,5 +78,3 @@ Get your keys here:
 - Groq (free): [console.groq.com](https://console.groq.com)
 
 ---
-
-*Built as part of the AI Agents course by Ed Donner.*
