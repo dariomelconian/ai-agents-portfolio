@@ -1,0 +1,7 @@
+anthropic
+openai
+pypdf
+python-docx
+gradio
+python-dotenv
+requests
